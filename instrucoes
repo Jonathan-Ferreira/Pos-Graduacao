@@ -1,0 +1,8 @@
+Alunos:
+  Jonathan Domingos Ferreira – 2016201935
+  Marcos Antonio Sócrates Carvalho da Silva - 2018201044
+  
+ Os nomes dos arquivoes estão relacionados a numeração do arquivo original das atividades.
+ 
+ Para que o código funcione, é necessário mudar o path da função readcsv2 para o path local.
+
